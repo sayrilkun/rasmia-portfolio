@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
+title: 'Design Projects'
+cover: './designproj.jpg'
 github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+external: '/design'
 tech:
   - Next.js
   - Chart.js

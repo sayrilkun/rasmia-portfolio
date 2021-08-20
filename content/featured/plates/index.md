@@ -1,7 +1,7 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
+title: 'Drawing Plates'
+cover: './plates.jpg'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
 tech:
