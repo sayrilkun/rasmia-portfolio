@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Rasmia Laut.</h2>;
-  const three = <h3 className="big-heading">I design things for the pakers.</h3>;
+  const three = <h3 className="big-heading">I design things for the people.</h3>;
   const four = (
     <p>
       A persistent Interior Design student seeking to build a strong career in this field by putting
